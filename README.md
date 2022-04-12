@@ -6,10 +6,10 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [JavaScript]()
-- [React Native]()
-- [NodeJs]()
-- [PostgreSQL]()
+- JavaScript
+- React Native
+- NodeJs
+- PostgreSQL
 
 
 ## 📱 Sobre o Projeto
