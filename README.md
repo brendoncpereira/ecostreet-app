@@ -15,7 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 📱 Sobre o Projeto
 Ecostreet é um aplicativo para dispositivos mobile que foi criado para expor e denunciar situações de problemas ambientais e urbanos, assim facilitando a comunicação entre os órgãos responsáveis e a população, para que essas situações se resolvam de maneira rápida e eficaz. Ele foi desenvolvido com o framework React Native, um back-end desenvolvido em NodeJs e integração com o banco de dados PostgreSQL.
 
-Link para o back-end da aplicação: https://github.com/brendoncpereira/back-end-ecostreet
+Link para o repositório do back-end da aplicação: https://github.com/brendoncpereira/back-end-ecostreet
 
 ## 🤝 Equipe Desenvolvedora
 
