@@ -18,8 +18,8 @@ Ecostreet é um aplicativo para dispositivos mobile que foi criado para expor e 
 ## 🤝 Equipe Desenvolvedora
 
 - [Brendon de Castro Pereira](https://www.linkedin.com/in/brendon-de-castro-858580237/)
-- [Bruno Ecker Sanceverino Gonçalves]()
-- [Matheus Demétrio Vieira]()
+- [Bruno Ecker Sanceverino Gonçalves](https://www.linkedin.com/in/bruno-ecker-997aa121a/)
+- [Matheus Demétrio Vieira](https://www.linkedin.com/in/matheus-vieira-8330aa20a/)
 
 
 
